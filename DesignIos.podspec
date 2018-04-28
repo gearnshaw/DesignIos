@@ -25,7 +25,7 @@ A Kit for integrating a design system into an iOS project. Includes basic typogr
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Gabrielle Earnshaw' => 'g_earnshaw@hotmail.com' }
-  s.source           = { :git => 'https://github.com/gllittler/DesignIos.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/gearnshaw/DesignIos.git', :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/GabEarnsh'
 
   s.ios.deployment_target = '9.0'
