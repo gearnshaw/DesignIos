@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 A Kit for integrating a design system into an iOS project. Includes basic typography, spacing and colours
                        DESC
 
-  s.homepage         = 'https://github.com/gllittler/DesignIos'
+  s.homepage         = 'https://github.com/gearnshaw/DesignIos'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Gabrielle Earnshaw' => 'g_earnshaw@hotmail.com' }
