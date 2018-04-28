@@ -1,0 +1,16 @@
+PODS:
+  - DesignIos (0.1.0)
+
+DEPENDENCIES:
+  - DesignIos (from `../`)
+
+EXTERNAL SOURCES:
+  DesignIos:
+    :path: ../
+
+SPEC CHECKSUMS:
+  DesignIos: b7e9a04f163a97b5b674661f0180051c9757bfa4
+
+PODFILE CHECKSUM: ccb6545aad9563e236aa3bc6b70416d451ea519f
+
+COCOAPODS: 1.4.0

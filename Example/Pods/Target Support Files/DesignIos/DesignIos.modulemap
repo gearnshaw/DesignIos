@@ -1,0 +1,6 @@
+framework module DesignIos {
+  umbrella header "DesignIos-umbrella.h"
+
+  export *
+  module * { export * }
+}
