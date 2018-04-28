@@ -23,6 +23,7 @@ pod 'DesignIos'
 ## Author
 
 Gabrielle Earnshaw
+https://twitter.com/GabEarnsh
 
 ## License
 
