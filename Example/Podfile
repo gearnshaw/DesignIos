@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'DesignIos_Example' do
+  pod 'DesignIos', :path => '../'
+
+  target 'DesignIos_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
