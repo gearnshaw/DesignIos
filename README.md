@@ -1,6 +1,6 @@
 # DesignIos
 
-[![CI Status](https://img.shields.io/travis/gllittler/DesignIos.svg?style=flat)](https://travis-ci.org/gllittler/DesignIos)
+[![CI Status](https://img.shields.io/travis/gearnshaw/DesignIos.svg?style=flat)](https://travis-ci.org/gearnshaw/DesignIos)
 [![Version](https://img.shields.io/cocoapods/v/DesignIos.svg?style=flat)](https://cocoapods.org/pods/DesignIos)
 [![License](https://img.shields.io/cocoapods/l/DesignIos.svg?style=flat)](https://cocoapods.org/pods/DesignIos)
 [![Platform](https://img.shields.io/cocoapods/p/DesignIos.svg?style=flat)](https://cocoapods.org/pods/DesignIos)
@@ -22,7 +22,7 @@ pod 'DesignIos'
 
 ## Author
 
-gllittler, g_earnshaw@hotmail.com
+Gabrielle Earnshaw
 
 ## License
 
